@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "790200842377",
+    "project_id": "smart-ms-6b6fd",
+    "storage_bucket": "smart-ms-6b6fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790200842377:android:39f5671632e10b15cbee58",
+        "android_client_info": {
+          "package_name": "com.example.hello_aisha1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdJjlpDqwQsNZnW-NOGoRivMkvEEQtvSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790200842377:android:e0cd86784fbb3bcbcbee58",
+        "android_client_info": {
+          "package_name": "com.example.project_aisha2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdJjlpDqwQsNZnW-NOGoRivMkvEEQtvSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
